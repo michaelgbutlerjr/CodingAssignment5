@@ -1,11 +1,10 @@
 body {
     background-image: url("images/abstract-elegant-white-and-gray-background-abstract-white-pattern-squares-texture-vector.jpg");
-    min-height: 500px;
+    background-size: cover;
+    height: 100%;
     width: 100%;
-    background: #0000;
-    color: #8a7373;
     font-family: "Josefin Sans", sans-serif;
-    font-weight: bold 
+    font-weight: bold;
 }
 
 h1, h2, h3 {
@@ -13,7 +12,7 @@ h1, h2, h3 {
     color: #86692e;
     text-shadow: 3px 3px 3px #510321;
     font-style: oblique;
-    font-size:30px
+    font-size:30px;
 }
 
 p {
@@ -29,7 +28,7 @@ li {
 
 [class*="col"] {
             float: left;
-            padding: 10px 
+            padding: 10px;
         }
 
 .row::after {
