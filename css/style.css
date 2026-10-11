@@ -1,5 +1,7 @@
 body {
-    background-image: url("abstract-elegant-white-and-gray-background-abstract-white-pattern-squares-texture-vector.jpg");
+    background-image: url("images/abstract-elegant-white-and-gray-background-abstract-white-pattern-squares-texture-vector.jpg");
+    min-height: 500px;
+    width: 100%;
     background: #0000;
     color: #8a7373;
     font-family: "Josefin Sans", sans-serif;
